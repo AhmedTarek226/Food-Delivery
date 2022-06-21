@@ -1,4 +1,4 @@
-# My Universal React Project
+# My Universal React Native Project
 
 <p>
   <!-- iOS -->
@@ -15,7 +15,7 @@
   </a>
 </p>
 
-## 🚀 How to use
+## How to use
 
 - Install packages with `yarn` or `npm install`.
   - If you have native iOS code run `npx pod-install`
